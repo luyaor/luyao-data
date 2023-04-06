@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T07:06:10.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Hra-W1cZt7RtzdxYA9sv" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T08:54:22.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="tUa9c1v0gdRBzhVHk_ze" version="21.1.4" type="github">
   <diagram name="第 1 页" id="NblAXjC7mbTJUt5rKnVX">
     <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -109,8 +109,8 @@
             <mxPoint x="450" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OwzO4WwCmqvxQ3wz58n--68" value="&lt;p&gt;&lt;/p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;等线&quot;&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&quot;name&quot;: &quot;Bob&quot;,&lt;/div&gt;&lt;div&gt;&quot;gender&quot;: &quot;male&quot;,&lt;/div&gt;&lt;div&gt;&quot;hobbies&quot;: [&quot;swimming&quot;, &quot;football&quot;]&amp;nbsp;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="280" width="263" height="110" as="geometry" />
+        <mxCell id="OwzO4WwCmqvxQ3wz58n--68" value="&lt;p&gt;&lt;/p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;等线&quot;&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&quot;name&quot;: &quot;Bob&quot;,&lt;/div&gt;&lt;div&gt;&quot;gender&quot;: &quot;male&quot;,&lt;/div&gt;&lt;div&gt;&quot;hobbies&quot;: [&quot;swimming&quot;, &quot;football&quot;]，&lt;/div&gt;&lt;div&gt;......&amp;nbsp;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="280" width="263" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
